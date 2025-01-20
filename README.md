@@ -1,4 +1,4 @@
-# TheFinalBreath
+# The Final Breath
 Explore a society whose greed destroyed itself. Explore it one last time, before it's gone.
 
 # Welcome to the end
